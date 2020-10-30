@@ -1,3 +1,3 @@
 ### Rubikscraft
 
-Hello there I haven't bothered adding anything interesting here, sorry.
+![oops](https://media.giphy.com/media/LXONhtCmN32YU/giphy.gif)
