@@ -1,7 +1,10 @@
-# Rubikscraft
+# Caramel
 
-You can also visit [my website](https://rubikscraft.nl).
+Hi there, thanks for visiting my profile. I'm Caramel, a fluffy folf that can make computers do magic!
 
+I mostly do webdev and embedded stuff, I guess I'm one of those full-stack developers.
+
+Feel free to visit [my website](https://rubikscraft.nl) aswell.
 
 ## Stats
 
@@ -15,6 +18,3 @@ You can also visit [my website](https://rubikscraft.nl).
 - Matrix: [@rubikscraft:matrix.org](https://matrix.to/#/@rubikscraft:matrix.org)
 - GitLab: <https://gitlab.com/rubikscraft>
 
-## Obligatory Rickroll
-
-![oops](https://media.giphy.com/media/LXONhtCmN32YU/giphy.gif)
