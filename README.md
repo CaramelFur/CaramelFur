@@ -14,7 +14,11 @@ Feel free to visit [my website](https://caramelfur.dev) aswell.
 ## Contact
 
 - E-Mail: contact@caramelfur.dev
-- Discord: [rubikscraft#0621](https://discord.com/users/350013809311744001)
-- Matrix: [@rubikscraft:matrix.org](https://matrix.to/#/@rubikscraft:matrix.org)
-- GitLab: <https://gitlab.com/rubikscraft>
+- Telegram: [@CaramelFluff](https://t.me/CaramelFluff)
+- Discord: [Caramel#0621](https://discord.com/users/350013809311744001)
+- Mastodon: [@Caramel@furry.engineer](https://furry.engineer/@Caramel)
+- Twitter: [@CaramelFolf](https://twitter.com/CaramelFolf)
+- Matrix: [@caramel:matrix.caramelfur.dev](https://matrix.to/#/@caramel:matrix.caramelfur.dev)
+- GitLab: <https://gitlab.com/CaramelFur>
+
 
