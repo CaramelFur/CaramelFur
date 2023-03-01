@@ -18,7 +18,7 @@ Feel free to visit [my website](https://caramelfur.dev) aswell.
 - Discord: [Caramel#0621](https://discord.com/users/350013809311744001)
 - Mastodon: [@Caramel@furry.engineer](https://furry.engineer/@Caramel)
 - Twitter: [@CaramelFolf](https://twitter.com/CaramelFolf)
-- Matrix: [@caramel:matrix.caramelfur.dev](https://matrix.to/#/@caramel:matrix.caramelfur.dev)
+- Matrix: [@Caramel:caramelfur.dev](https://matrix.to/#/@Caramel:caramelfur.dev)
 - GitLab: <https://gitlab.com/CaramelFur>
 
 
