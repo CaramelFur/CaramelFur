@@ -6,11 +6,6 @@ I mostly do webdev and embedded stuff, I guess I'm one of those full-stack devel
 
 Feel free to visit [my website](https://caramelfur.dev) aswell.
 
-## Stats
-
-![](https://github.com/rubikscraft/github-stats/blob/master/generated/overview.svg)
-![](https://github.com/rubikscraft/github-stats/blob/master/generated/languages.svg)
-
 ## Contact
 
 - E-Mail: contact@caramelfur.dev
